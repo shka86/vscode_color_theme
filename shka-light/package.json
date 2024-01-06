@@ -1,0 +1,21 @@
+{
+  "name": "shka-light",
+  "displayName": "shka-light",
+  "description": "shka-light",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "shka-light",
+        "uiTheme": "vs",
+        "path": "./themes/shka-light-color-theme.json"
+      }
+    ]
+  }
+}

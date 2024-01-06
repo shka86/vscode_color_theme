@@ -1,0 +1,21 @@
+{
+  "name": "shka-dark",
+  "displayName": "shka-dark",
+  "description": "dark color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "shka-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shka-dark-color-theme.json"
+      }
+    ]
+  }
+}

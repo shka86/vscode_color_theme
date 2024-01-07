@@ -10,7 +10,7 @@
 		// "editor.selectionBackground": "#49483E",
 		// "editorWhitespace.foreground": "#6A6A6466",
 		// "editorGutter.addedBackground": "#A6E22E",
-		// "editorGutter.deletedBackground": "#F92672",
+		// "editorGutter.deletedBackground": "#E92672",
 		// "editorGutter.modifiedBackground": "#7E61cF",
 		// "statusBar.background": "#23241F",
 		// "activityBar.background": "#23241F",
@@ -97,7 +97,7 @@
 			"keyword"
 		  ],
 		  "settings": {
-			"foreground": "#F92672"
+			"foreground": "#E92672"
 		  }
 		},
 		{
@@ -106,7 +106,7 @@
 			"storage"
 		  ],
 		  "settings": {
-			"foreground": "#F92672"
+			"foreground": "#E92672"
 		  }
 		},
 		{
@@ -168,7 +168,7 @@
 			"entity.name.tag"
 		  ],
 		  "settings": {
-			"foreground": "#F92672"
+			"foreground": "#E92672"
 		  }
 		},
 		{
@@ -248,7 +248,7 @@
 		// 	"invalid"
 		//   ],
 		//   "settings": {
-		// 	"background": "#F92672",
+		// 	"background": "#E92672",
 		// 	"foreground": "#F8F8F0"
 		//   }
 		// },
@@ -287,7 +287,7 @@
 			"punctuation.accessor"
 		  ],
 		  "settings": {
-			"foreground": "#F92672"
+			"foreground": "#E92672"
 		  }
 		},
 		// {
@@ -346,7 +346,7 @@
 			"support.class.component.tsx"
 		  ],
 		  "settings": {
-			"foreground": "#F92672"
+			"foreground": "#E92672"
 		  }
 		},
 		{
@@ -366,7 +366,7 @@
 			"support.type.property-name.json"
 		  ],
 		  "settings": {
-			"foreground": "#F92672",
+			"foreground": "#E92672",
 			"fontStyle": ""
 		  }
 		},
@@ -435,7 +435,7 @@
 			"punctuation.other.period.go"
 		  ],
 		  "settings": {
-			"foreground": "#F92672"
+			"foreground": "#E92672"
 		  }
 		},
 		{
@@ -528,7 +528,7 @@
 			"markup.bold.markdown"
 		  ],
 		  "settings": {
-			"foreground": "#F92672",
+			"foreground": "#E92672",
 			"fontStyle": "bold"
 		  }
 		},
@@ -633,7 +633,7 @@
 			"markup.deleted"
 		  ],
 		  "settings": {
-			"foreground": "#F92672"
+			"foreground": "#E92672"
 		  }
 		},
 		{
@@ -660,7 +660,7 @@
 			"markup.deleted.git_gutter"
 		  ],
 		  "settings": {
-			"foreground": "#F92672"
+			"foreground": "#E92672"
 		  }
 		},
 		{

@@ -11,6 +11,22 @@ Usage
 ※ VSCODEマケプレでの公開は諸事情につきやらない。
 
 
+Tips
+---
+プロジェクトごとに色を変えたい場合は、カラーテーマではなくプロジェクトの設定`./vscode/setting.json`に追記
+
+`ctrl+,`からも行ける
+
+```json
+"workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#c6a6a6",
+    "titleBar.activeForeground": "#333333",
+    "activityBar.background": "#c6a6a6",
+    "activityBar.foreground": "#333333"
+  }
+```
+
+
 Licence
 ---
 

@@ -15,6 +15,7 @@
 		// "statusBar.background": "#23241F",
 		// "activityBar.background": "#23241F",
 		// "sideBar.background": "#252620"
+		"tab.activeBackground": "#cc9999cc",
 	  },
 	  "tokenColors": [
 		{

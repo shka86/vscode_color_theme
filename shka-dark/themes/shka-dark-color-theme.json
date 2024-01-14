@@ -13,7 +13,8 @@
 		"editorGutter.modifiedBackground": "#AE81FF",
 		"statusBar.background": "#23241F",
 		"activityBar.background": "#23241F",
-		"sideBar.background": "#252620"
+		"sideBar.background": "#252620",
+		"tab.activeBackground": "#666666cc",
 	  },
 	  "tokenColors": [
 		{

@@ -6,7 +6,7 @@
 		"editor.foreground": "#333333",
 		// "list.activeSelectionIconForeground": "#fff",
 		// "editorCursor.foreground": "#F8F8F0",
-		// "editor.lineHighlightBackground": "#35352b",
+		"editor.lineHighlightBackground": "#35352b22",
 		// "editor.selectionBackground": "#49483E",
 		// "editorWhitespace.foreground": "#6A6A6466",
 		// "editorGutter.addedBackground": "#A6E22E",
@@ -16,6 +16,12 @@
 		// "activityBar.background": "#23241F",
 		// "sideBar.background": "#252620"
 		"tab.activeBackground": "#cc9999cc",
+		"tab.border": "#55555555",
+		"sideBar.border": "#55555555",
+		"activityBar.border": "#55555555",
+		"editorGroup.border": "#55555555",
+		// "diffEditor.removedTextBackground": "#862f2f33",
+		// "diffEditor.insertedTextBackground": "#ffffff33"
 	  },
 	  "tokenColors": [
 		{
@@ -40,7 +46,7 @@
 			"comment"
 		  ],
 		  "settings": {
-			"foreground": "#aaa795"
+			"foreground": "#7d817b"
 			// "foreground": "#75715E"
 		  }
 		},
